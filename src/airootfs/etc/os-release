@@ -1,0 +1,11 @@
+NAME="Varia Linux"
+PRETTY_NAME="Varia Linux"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://varia.amase.cc/"
+DOCUMENTATION_URL="https://varia.amase.cc/"
+SUPPORT_URL="https://github.com/AmaseCocoa/varia"
+BUG_REPORT_URL="https://github.com/AmaseCocoa/varia/issues"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=archlinux-logo

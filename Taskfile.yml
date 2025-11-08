@@ -1,0 +1,17 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+  clean:
+    cmds:
+      - sudo rm -rf ./dist /tmp/varia-work
+    silent: true
+  build:
+    cmds:
+      - sudo mkarchiso -v -w /tmp/varia-work -o ./dist ./src/
+    silent: true
+  cb:
+    cmds:
+      - task clean && task build
+    silent: true
