@@ -12,10 +12,11 @@ btrfs-progs
 bluez
 bluez-utils
 
+calamares
+cryptsetup
+
 dolphin
 discover
-
-cryptsetup
 
 diffutils
 dmidecode
@@ -103,6 +104,7 @@ pv
 pipewire
 plasma-desktop
 plasma-nm
+plasma-pa
 
 reflector
 rsync
@@ -126,6 +128,9 @@ terminus-font
 udftools
 usbutils
 
+varia-calamares
+varia-config
+varia-keyring
 vim
 
 wireless-regdb

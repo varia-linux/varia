@@ -1,0 +1,59 @@
+================================================================================
+THIRD-PARTY LICENSES AND NOTICES
+================================================================================
+
+This project, which is licensed under the GNU General Public License v3.0 (GPLv3), incorporates or uses the following third-party software components and resources. Their usage is governed by their respective licenses.
+
+The full text of the GNU General Public License v3.0 can be found in the accompanying 'LICENSE' file.
+
+--------------------------------------------------------------------------------
+1. Chaac Complete Weather
+--------------------------------------------------------------------------------
+Source: https://github.com/zayronxio/Chaac-Complete-Weather
+License: GNU Affero General Public License v3.0 (AGPLv3)
+
+This component is licensed under the AGPLv3. Please be aware that the AGPLv3 is a strong copyleft license that requires any service providing this software over a network to also make the full source code, including any modifications, available to those users.
+
+--------------------------------------------------------------------------------
+2. Sweet-kde
+--------------------------------------------------------------------------------
+Source: https://github.com/EliverLara/Sweet-kde
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+This component is licensed under CC BY-SA 4.0. You are free to share and adapt this material under the conditions of Attribution and ShareAlike.
+Attribution: Please attribute the work to EliverLara.
+
+--------------------------------------------------------------------------------
+3. Tela Icon Theme
+--------------------------------------------------------------------------------
+Source: https://github.com/vinceliuice/Tela-icon-theme
+License: GNU General Public License v3.0 (GPLv3)
+
+This component is licensed under the GPLv3. The terms and conditions of the GPLv3 apply.
+
+--------------------------------------------------------------------------------
+4. AndromedaLauncher
+--------------------------------------------------------------------------------
+Source: https://github.com/EliverLara/AndromedaLauncher
+License: GNU General Public License v2.0 (GPLv2)
+
+This component is licensed under the GPLv2. The terms and conditions of the GPLv2 apply.
+
+--------------------------------------------------------------------------------
+5. PlasMusic Toolbar
+--------------------------------------------------------------------------------
+Source: https://github.com/ccatterina/plasmusic-toolbar
+License: GNU General Public License v3.0 (GPLv3)
+
+This component is licensed under the GPLv3. The terms and conditions of the GPLv3 apply.
+
+================================================================================
+NON-LICENSING NOTES AND ACKNOWLEDGEMENTS
+================================================================================
+
+The overall desktop layout and design ideas were inspired by the following source:
+Idea Source: https://www.reddit.com/r/unixporn/comments/1kztg0r/plasma_6_tweaking_my_daily_linux_desktop_a_wip/
+
+================================================================================
+END OF NOTICES
+================================================================================
